@@ -1,2 +1,1 @@
-"Hello world"
-"pyhton"
+"Hello world"\n"pyhton"
