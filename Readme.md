@@ -5,7 +5,7 @@ java
 
 
 
-
+how to merge from cmd
 
 
 
