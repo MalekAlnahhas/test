@@ -1,5 +1,3 @@
-Hello world
-
 pyhton
 
 java
